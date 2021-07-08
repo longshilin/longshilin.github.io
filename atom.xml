@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Elon&#39;s blog</title>
+  <icon>https://longshilin.com/img/favicon.svg</icon>
+  
+  <link href="https://longshilin.com/atom.xml" rel="self"/>
+  
+  <link href="https://longshilin.com/"/>
+  <updated>2021-07-08T02:30:02.618Z</updated>
+  <id>https://longshilin.com/</id>
+  
+  <author>
+    <name>Elon</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://longshilin.com/2021/07/Unity/Unity-Learn/"/>
+    <id>https://longshilin.com/2021/07/Unity/Unity-Learn/</id>
+    <published>2021-07-08T02:30:02.618Z</published>
+    <updated>2021-07-08T02:30:02.618Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://learn.unity.com/course/create-with-code&quot;&gt;Create with</summary>
+        
+      
+    
+    
+    
+    <category term="Unity" scheme="https://longshilin.com/categories/Unity/"/>
+    
+    <category term="Unity Learn" scheme="https://longshilin.com/categories/Unity/Unity-Learn/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://longshilin.com/2021/07/Unity/Unity-Learn/Unity-Animation-System/"/>
+    <id>https://longshilin.com/2021/07/Unity/Unity-Learn/Unity-Animation-System/</id>
+    <published>2021-07-08T02:30:02.618Z</published>
+    <updated>2021-07-08T02:30:02.618Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Unity" scheme="https://longshilin.com/categories/Unity/"/>
+    
+    <category term="Unity Learn" scheme="https://longshilin.com/categories/Unity/Unity-Learn/"/>
+    
+    <category term="Unity Animation System" scheme="https://longshilin.com/categories/Unity/Unity-Learn/Unity-Animation-System/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>登录注册流程</title>
+    <link href="https://longshilin.com/2021/06/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/Linity/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B/"/>
+    <id>https://longshilin.com/2021/06/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/Linity/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B/</id>
+    <published>2021-06-27T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.622Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="我的项目" scheme="https://longshilin.com/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="Linity" scheme="https://longshilin.com/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/Linity/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>jq命令实战</title>
+    <link href="https://longshilin.com/2021/06/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Shell/jq%E5%91%BD%E4%BB%A4%E5%AE%9E%E6%88%98/"/>
+    <id>https://longshilin.com/2021/06/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Shell/jq%E5%91%BD%E4%BB%A4%E5%AE%9E%E6%88%98/</id>
+    <published>2021-06-14T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.622Z</updated>
+    
+    
+    <summary type="html">&lt;figure class=&quot;highlight json&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[{&lt;span class=&quot;attr&quot;&gt;&quot;id&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;40ae585c629eaef5&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;name&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;IPA_NAME&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;version&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;0.0.1&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;identifier&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;com.company.game&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;build&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;106111233&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;date&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;2021-06-11T04:40:50.037Z&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;size&quot;&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;45079085&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;noneIcon&quot;&lt;/span&gt;:&lt;span class=&quot;literal&quot;&gt;false&lt;/span&gt;},{&lt;span class=&quot;attr&quot;&gt;&quot;id&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;756f5622e240ae6e&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;name&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;IPA_NAME&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;version&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;0.10.11&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;identifier&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;com.company.game&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;build&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;106110056&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;date&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;2021-06-10T17:04:05.930Z&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;size&quot;&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;45078969&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;noneIcon&quot;&lt;/span&gt;:&lt;span class=&quot;literal&quot;&gt;false&lt;/span&gt;},{&lt;span class=&quot;attr&quot;&gt;&quot;id&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;a9175940b8ba8a1d&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;name&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;IPA_NAME&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;version&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;0.0.1&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;identifier&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;com.company.game&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;build&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;106110046&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;date&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;2021-06-10T16:54:45.721Z&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;size&quot;&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;45079158&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;noneIcon&quot;&lt;/span&gt;:&lt;span class=&quot;literal&quot;&gt;false&lt;/span&gt;},{&lt;span class=&quot;attr&quot;&gt;&quot;id&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;4a8ff511f05d205b&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;name&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;IPA_NAME&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;version&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;0.10.11&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;identifier&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;com.company.game&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;build&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;106102224&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;date&quot;&lt;/span&gt;:&lt;span class=&quot;string&quot;&gt;&quot;2021-06-10T14:32:26.082Z&quot;&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;size&quot;&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;45084343&lt;/span&gt;,&lt;span class=&quot;attr&quot;&gt;&quot;noneIcon&quot;&lt;/span&gt;:&lt;span class=&quot;literal&quot;&gt;false&lt;/span&gt;}]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;从上述 appList.json 文件中，传入一个build参数，返回那条记录对应的id值，比如传入build为 106111233，那么传出给我的id值为 40ae585c629eaef5。&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;jq &lt;span class=&quot;string&quot;&gt;&#39;.[] | select(.build==&quot;106111233&quot;) | .id&#39;&lt;/span&gt; appList.json |sed &lt;span class=&quot;string&quot;&gt;&#39;s/\&quot;//g&#39;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;放在一个脚本中执行，然后通过远程执行这个脚本获取id &lt;code&gt;IPA_ID=$($ssh root@$RESOURCE_IP -T &quot;bash IPA_GET_ID.sh $BUILD_ID&quot;)&lt;/code&gt; ，下面是 &lt;code&gt;IPA_GET_ID.sh &lt;/code&gt; 脚本文件。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程语言" scheme="https://longshilin.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="Shell" scheme="https://longshilin.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Shell/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ET-服务端笔记1</title>
+    <link href="https://longshilin.com/2021/06/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/ET/et-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E7%AC%94%E8%AE%B01/"/>
+    <id>https://longshilin.com/2021/06/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/ET/et-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E7%AC%94%E8%AE%B01/</id>
+    <published>2021-06-13T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.622Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这是ET服务端笔记系列文字的第一篇，从程序入口开始记录。&lt;/p&gt;
+&lt;h3 id=&quot;Main函数入口&quot;&gt;&lt;a href=&quot;#Main函数入口&quot; class=&quot;headerlink&quot; title=&quot;Main函数入口&quot;&gt;&lt;/a&gt;Main函数入口&lt;/h3&gt;&lt;p&gt;ET服务端采用C#语言，程序启动通过Main函数进入，&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="游戏框架" scheme="https://longshilin.com/categories/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/"/>
+    
+    <category term="ET" scheme="https://longshilin.com/categories/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/ET/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>repo增加外链仓库</title>
+    <link href="https://longshilin.com/2021/06/%E5%B7%A5%E5%85%B7/Git/repo%E5%A2%9E%E5%8A%A0%E5%A4%96%E9%93%BE%E4%BB%93%E5%BA%93/"/>
+    <id>https://longshilin.com/2021/06/%E5%B7%A5%E5%85%B7/Git/repo%E5%A2%9E%E5%8A%A0%E5%A4%96%E9%93%BE%E4%BB%93%E5%BA%93/</id>
+    <published>2021-06-12T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.618Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Git" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/Git/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mac上通过brew安装的服务设置开机自启</title>
+    <link href="https://longshilin.com/2021/06/%E5%B7%A5%E5%85%B7/Mac/mac%E4%B8%8A%E9%80%9A%E8%BF%87brew%E5%AE%89%E8%A3%85%E7%9A%84%E6%9C%8D%E5%8A%A1%E8%AE%BE%E7%BD%AE%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF/"/>
+    <id>https://longshilin.com/2021/06/%E5%B7%A5%E5%85%B7/Mac/mac%E4%B8%8A%E9%80%9A%E8%BF%87brew%E5%AE%89%E8%A3%85%E7%9A%84%E6%9C%8D%E5%8A%A1%E8%AE%BE%E7%BD%AE%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF/</id>
+    <published>2021-06-12T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.618Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;通过brew安装了jenkins，现在想设置开机自动启服务&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Mac" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/Mac/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Lua语法积累</title>
+    <link href="https://longshilin.com/2021/06/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Lua/lua%E8%AF%AD%E6%B3%95%E7%A7%AF%E7%B4%AF/"/>
+    <id>https://longshilin.com/2021/06/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Lua/lua%E8%AF%AD%E6%B3%95%E7%A7%AF%E7%B4%AF/</id>
+    <published>2021-06-08T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.622Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;常用Table方法&quot;&gt;&lt;a href=&quot;#常用Table方法&quot; class=&quot;headerlink&quot; title=&quot;常用Table方法&quot;&gt;&lt;/a&gt;常用Table方法&lt;/h3&gt;&lt;figure class=&quot;highlight lua&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;-- luaTable顺序遍历  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;PairsByKeys&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(t)&lt;/span&gt;&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;local&lt;/span&gt; a = {}  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;for&lt;/span&gt; n &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;built_in&quot;&gt;pairs&lt;/span&gt;(t) &lt;span class=&quot;keyword&quot;&gt;do&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  a[#a + &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;] = n  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;end&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;built_in&quot;&gt;table&lt;/span&gt;.&lt;span class=&quot;built_in&quot;&gt;sort&lt;/span&gt;(a)  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;local&lt;/span&gt; i = &lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt;&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  i = i + &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; a[i], t[a[i]]  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;end&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;end&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight lua&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;-- Table中Id大的排在前面，小的排在后面&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;TableSort&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(A, B)&lt;/span&gt;&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; A.Id &amp;gt; B.Id  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;end&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="编程语言" scheme="https://longshilin.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="Lua" scheme="https://longshilin.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Lua/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mac上Nginx配置免费证书</title>
+    <link href="https://longshilin.com/2021/05/%E5%B7%A5%E5%85%B7/Mac/mac%E4%B8%8Anginx%E9%85%8D%E7%BD%AE%E5%85%8D%E8%B4%B9%E8%AF%81%E4%B9%A6/"/>
+    <id>https://longshilin.com/2021/05/%E5%B7%A5%E5%85%B7/Mac/mac%E4%B8%8Anginx%E9%85%8D%E7%BD%AE%E5%85%8D%E8%B4%B9%E8%AF%81%E4%B9%A6/</id>
+    <published>2021-05-14T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.618Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;1)安装nginx&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;brew install nginx&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;2)本地安装localhost证书(此命令会生成两个文件localhost+2.pem, localhost+2-key.pem)&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="工具" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Mac" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/Mac/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>VMware中的Mac系统启动恢复模式</title>
+    <link href="https://longshilin.com/2021/05/%E5%B7%A5%E5%85%B7/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85MacOS/vmware%E4%B8%AD%E7%9A%84mac%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%81%A2%E5%A4%8D%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://longshilin.com/2021/05/%E5%B7%A5%E5%85%B7/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85MacOS/vmware%E4%B8%AD%E7%9A%84mac%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%81%A2%E5%A4%8D%E6%A8%A1%E5%BC%8F/</id>
+    <published>2021-05-14T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.618Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;打开VMware，进入虚拟机的固件模式&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/longshilin/images/20210515111808.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="工具" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="虚拟机安装MacOS" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85MacOS/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>执行命令行并将该命令执行结果日志全部记录到日志文件中</title>
+    <link href="https://longshilin.com/2021/05/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Shell/%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B9%B6%E5%B0%86%E8%AF%A5%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E7%BB%93%E6%9E%9C%E6%97%A5%E5%BF%97%E5%85%A8%E9%83%A8%E8%AE%B0%E5%BD%95%E5%88%B0%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E4%B8%AD/"/>
+    <id>https://longshilin.com/2021/05/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Shell/%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B9%B6%E5%B0%86%E8%AF%A5%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E7%BB%93%E6%9E%9C%E6%97%A5%E5%BF%97%E5%85%A8%E9%83%A8%E8%AE%B0%E5%BD%95%E5%88%B0%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E4%B8%AD/</id>
+    <published>2021-05-14T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.622Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;屏幕上打印该结果并将结果输出到text.txt中保存&lt;/p&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;echo SERVER_URL=https://www.example.com | tee text.txt&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;hr&gt;</summary>
+    
+    
+    
+    <category term="编程语言" scheme="https://longshilin.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="Shell" scheme="https://longshilin.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Shell/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mac通过U盘启动安装新系统</title>
+    <link href="https://longshilin.com/2021/05/%E5%B7%A5%E5%85%B7/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85MacOS/mac%E9%80%9A%E8%BF%87u%E7%9B%98%E5%90%AF%E5%8A%A8%E5%AE%89%E8%A3%85%E6%96%B0%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://longshilin.com/2021/05/%E5%B7%A5%E5%85%B7/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85MacOS/mac%E9%80%9A%E8%BF%87u%E7%9B%98%E5%90%AF%E5%8A%A8%E5%AE%89%E8%A3%85%E6%96%B0%E7%B3%BB%E7%BB%9F/</id>
+    <published>2021-05-05T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.618Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;进入恢复模式&quot;&gt;&lt;a href=&quot;#进入恢复模式&quot; class=&quot;headerlink&quot; title=&quot;进入恢复模式&quot;&gt;&lt;/a&gt;进入恢复模式&lt;/h2&gt;&lt;p&gt;拿到旧版Mac机器，首先进入恢复模式（确保您的 Mac 连接到互联网。然后，将 Mac 开机并立即按住 &lt;strong&gt;Command (⌘)-R&lt;/strong&gt;，直至看到 Apple 标志或其他图像。）&lt;/p&gt;
+&lt;h2 id=&quot;格式化磁盘&quot;&gt;&lt;a href=&quot;#格式化磁盘&quot; class=&quot;headerlink&quot; title=&quot;格式化磁盘&quot;&gt;&lt;/a&gt;格式化磁盘&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="工具" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="虚拟机安装MacOS" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85MacOS/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Odin入门</title>
+    <link href="https://longshilin.com/2021/04/Unity/Plugins/Odin/odin%E5%85%A5%E9%97%A8/"/>
+    <id>https://longshilin.com/2021/04/Unity/Plugins/Odin/odin%E5%85%A5%E9%97%A8/</id>
+    <published>2021-04-30T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.618Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Odin是一款非常优秀的Unity第三方插件，具体介绍可以查看&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Unity" scheme="https://longshilin.com/categories/Unity/"/>
+    
+    <category term="Plugins" scheme="https://longshilin.com/categories/Unity/Plugins/"/>
+    
+    <category term="Odin" scheme="https://longshilin.com/categories/Unity/Plugins/Odin/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日志的重要性</title>
+    <link href="https://longshilin.com/2021/04/Journal/%E6%97%A5%E5%BF%97%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7/"/>
+    <id>https://longshilin.com/2021/04/Journal/%E6%97%A5%E5%BF%97%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7/</id>
+    <published>2021-04-07T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.614Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;每天记录主要做的事，能够给过去的自己一个交代，并且给未来的自己一个对比的机会，看看自己到底有没有进步，是不是把精力放在最重要的事情上。&lt;/p&gt;
+&lt;p&gt;以前我在自己的博客网站上有点放不开，感觉会有认识的人看我的博客，因此有些东西不敢或者不愿意写在上面，但是现在我换了一种看法，</summary>
+        
+      
+    
+    
+    
+    <category term="Journal" scheme="https://longshilin.com/categories/Journal/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>四月学习轨迹</title>
+    <link href="https://longshilin.com/2021/04/Journal/%E5%9B%9B%E6%9C%88%E5%AD%A6%E4%B9%A0%E8%BD%A8%E8%BF%B9/"/>
+    <id>https://longshilin.com/2021/04/Journal/%E5%9B%9B%E6%9C%88%E5%AD%A6%E4%B9%A0%E8%BD%A8%E8%BF%B9/</id>
+    <published>2021-04-07T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.614Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;博客记录日志以及学习动态，并分享自己的学习成果。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在我看来这才是一个健康使用Blog的方法，四月到进入位置过去四分之一左右，在清明节回到工作中的这四天时间，基本上在忙碌的开发功能，没什么时间学习其他方面，好在明天过后是双休，可以赶赶学习进度了。&lt;/p&gt;
+&lt;p&gt;再一次打开这篇博客已经是4月底了，这个月项目组很忙，基本没有空闲时间打理自己的东西，马上五一了，希望能抽空整理整理~&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Journal" scheme="https://longshilin.com/categories/Journal/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Windows10虚拟机安装原生Mac BigSur黑苹果教程</title>
+    <link href="https://longshilin.com/2021/03/%E5%B7%A5%E5%85%B7/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85MacOS/windows10%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85%E5%8E%9F%E7%94%9Fmac-bigsur%E9%BB%91%E8%8B%B9%E6%9E%9C%E6%95%99%E7%A8%8B/"/>
+    <id>https://longshilin.com/2021/03/%E5%B7%A5%E5%85%B7/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85MacOS/windows10%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85%E5%8E%9F%E7%94%9Fmac-bigsur%E9%BB%91%E8%8B%B9%E6%9E%9C%E6%95%99%E7%A8%8B/</id>
+    <published>2021-03-20T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.618Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;原生黑苹果指的是：制作一个运行在Windows虚拟机下的原生苹果系统。前几天把2015年的MacPro升级到了最新的Mac BigSur系统，是通过启动U盘的方式进行安装的，手头正好有这个启动U盘，接着我查到可以安装黑苹果，在查询资料后发现和真机安装系统原理差不多，因此这个周末就在我的Win机器上安装了BigSur的原生系统，现在将我的安装过程整理出来。&lt;/p&gt;
+&lt;h2 id=&quot;制作启动U盘&quot;&gt;&lt;a href=&quot;#制作启动U盘&quot; class=&quot;headerlink&quot; title=&quot;制作启动U盘&quot;&gt;&lt;/a&gt;制作启动U盘&lt;/h2&gt;&lt;p&gt;你需要有一个可以下载最新版MacOS系统的真机，并通过官方教程制作启动U盘。 &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="工具" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="虚拟机安装MacOS" scheme="https://longshilin.com/categories/%E5%B7%A5%E5%85%B7/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85MacOS/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mastering Ninject</title>
+    <link href="https://longshilin.com/2021/01/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/mastering-ninject/"/>
+    <id>https://longshilin.com/2021/01/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/mastering-ninject/</id>
+    <published>2021-01-20T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.622Z</updated>
+    
+    
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;将接口A以类B的一个属性注入，并通过类B的一个方法操作接口A的某个方法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下面是一个示例：&lt;/p&gt;
+&lt;figure class=&quot;highlight csharp&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;38&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;namespace&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Samples&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;{&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     &lt;span class=&quot;comment&quot;&gt;&lt;span class=&quot;doctag&quot;&gt;///&lt;/span&gt; &lt;span class=&quot;doctag&quot;&gt;&amp;lt;summary&amp;gt;&lt;/span&gt;  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     &lt;span class=&quot;comment&quot;&gt;&lt;span class=&quot;doctag&quot;&gt;///&lt;/span&gt; 这是一个抽象类，其中包含一个抽象方法   &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     &lt;span class=&quot;comment&quot;&gt;&lt;span class=&quot;doctag&quot;&gt;///&lt;/span&gt; &lt;span class=&quot;doctag&quot;&gt;&amp;lt;/summary&amp;gt;&lt;/span&gt;  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     &lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;abstract&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Forceps&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     {  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;         &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;abstract&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Grab&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;&lt;/span&gt;)&lt;/span&gt;;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     }&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; }&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;using&lt;/span&gt; System;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;using&lt;/span&gt; System.Collections.Generic;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;using&lt;/span&gt; System.Linq;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;using&lt;/span&gt; System.Text;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;using&lt;/span&gt; Moq;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;using&lt;/span&gt; NUnit.Framework;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;namespace&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Samples.Test&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;{  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;comment&quot;&gt;&lt;span class=&quot;doctag&quot;&gt;///&lt;/span&gt; &lt;span class=&quot;doctag&quot;&gt;&amp;lt;summary&amp;gt;&lt;/span&gt;  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;comment&quot;&gt;&lt;span class=&quot;doctag&quot;&gt;///&lt;/span&gt; 测试类  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;comment&quot;&gt;&lt;span class=&quot;doctag&quot;&gt;///&lt;/span&gt; 测试通过依赖注入的方法，调用接口函数  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;comment&quot;&gt;&lt;span class=&quot;doctag&quot;&gt;///&lt;/span&gt; &lt;span class=&quot;doctag&quot;&gt;&amp;lt;/summary&amp;gt;&lt;/span&gt;  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [&lt;span class=&quot;meta&quot;&gt;TestFixture&lt;/span&gt;]  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;SurgeonFixture&lt;/span&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  {  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; [&lt;span class=&quot;meta&quot;&gt;Test&lt;/span&gt;]  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;CallingOperateCallsGrabOnForceps&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;&lt;/span&gt;)  &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;/span&gt; {  &lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; forcepsMock = &lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; Mock&amp;lt;Forceps&amp;gt;();  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; surgeon = &lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; Surgeon(forcepsMock.Object);  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; surgeon.Operate();  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; forcepsMock.Verify(f =&amp;gt; f.Grab());  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; } }}&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="https://longshilin.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Unity开源插件</title>
+    <link href="https://longshilin.com/2020/12/%E6%B8%B8%E6%88%8F%E8%B5%84%E6%BA%90/unity%E5%BC%80%E6%BA%90%E6%8F%92%E4%BB%B6/"/>
+    <id>https://longshilin.com/2020/12/%E6%B8%B8%E6%88%8F%E8%B5%84%E6%BA%90/unity%E5%BC%80%E6%BA%90%E6%8F%92%E4%BB%B6/</id>
+    <published>2020-12-24T16:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.622Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Client-amp-Server&quot;&gt;&lt;a href=&quot;#Client-amp-Server&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="游戏资源" scheme="https://longshilin.com/categories/%E6%B8%B8%E6%88%8F%E8%B5%84%E6%BA%90/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ET-MongoDB使用</title>
+    <link href="https://longshilin.com/2020/11/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/ET/et-mongodb%E4%BD%BF%E7%94%A8/"/>
+    <id>https://longshilin.com/2020/11/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/ET/et-mongodb%E4%BD%BF%E7%94%A8/</id>
+    <published>2020-11-15T12:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.622Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这一篇博客是简单纪录我在ET中使用MongoDB的一些用法，持续更新~&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="游戏框架" scheme="https://longshilin.com/categories/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/"/>
+    
+    <category term="ET" scheme="https://longshilin.com/categories/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/ET/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ET-注册与登录功能</title>
+    <link href="https://longshilin.com/2020/11/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/ET/et-%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95%E5%8A%9F%E8%83%BD/"/>
+    <id>https://longshilin.com/2020/11/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/ET/et-%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95%E5%8A%9F%E8%83%BD/</id>
+    <published>2020-11-14T12:00:00.000Z</published>
+    <updated>2021-07-08T02:30:02.622Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这一篇博客是学习 &lt;a href=&quot;https://www.taikr.com/course/1053&quot;&gt;ETCore网络斗地主案例教学（基于ET5.0网络通信）&lt;/a&gt;时，总结记录的登录注册功能相关的笔记，将目标聚焦在客户端注册登录功能本身，默认具备其他相关知识背景。&lt;/p&gt;
+&lt;h2 id=&quot;资源准备：客户端注册登录界面搭建&quot;&gt;&lt;a href=&quot;#资源准备：客户端注册登录界面搭建&quot; class=&quot;headerlink&quot; title=&quot;资源准备：客户端注册登录界面搭建&quot;&gt;&lt;/a&gt;资源准备：客户端注册登录界面搭建&lt;/h2&gt;&lt;p&gt;构建UILogin.prefab以及UILobby.prefab，如下图，这两个prefab打包&lt;a href=&quot;https://longshilin.com/files/UILogin+UILobby.unitypackage&quot;&gt;下载地址&lt;/a&gt;
+&lt;img src=&quot;https://cdn.jsdelivr.net/gh/longshilin/images/20210209173348.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="游戏框架" scheme="https://longshilin.com/categories/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/"/>
+    
+    <category term="ET" scheme="https://longshilin.com/categories/%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6/ET/"/>
+    
+    
+  </entry>
+  
+</feed>
