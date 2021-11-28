@@ -1,0 +1,102 @@
+// see: /_sass/addon/commons.scss
+$tab-count: 5; // plus 1 for home tab
+
+@import "jekyll-theme-chirpy";
+
+@mixin my-light-sidebar-scheme {
+  --sidebar-bg: radial-gradient(circle, rgb(34, 137, 197) 0%, rgb(16, 94, 146) 100%);
+  --sidebar-muted-color: rgb(221 214 214 / 90%);
+  --sidebar-active-color: white;
+  --nav-cursor-color: #757575;
+  --sidebar-btn-bg: rgb(255 255 255 / 10%);
+}
+
+@mixin my-dark-sidebar-scheme {
+  --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
+  --sidebar-muted-color: #6d6c6b;
+  --sidebar-active-color: white;
+  --nav-cursor-color: rgb(183, 182, 182);
+  --sidebar-btn-bg: rgb(117 116 116 / 20%);
+}
+
+// SideBar 颜色自定义
+html:not([mode]),
+html[mode=light] {
+  @include my-light-sidebar-scheme;
+}
+html[mode=dark] {
+  @include my-dark-sidebar-scheme;
+}
+@media (prefers-color-scheme: dark) {
+  html:not([mode]),
+  html[mode=dark] {
+    @include my-dark-sidebar-scheme;
+  }
+  html[mode=light] {
+    @include my-light-sidebar-scheme;
+  }
+}
+
+%sidebar-links {
+  color: rgba(221, 214, 214, 0.9);
+  user-select: none;
+}
+
+#sidebar {
+  .site-title {
+    a {
+      color: rgba(221, 214, 214, 0.9);
+    }
+  }
+  .site-subtitle {
+    color: #d0c5c5;
+  }
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  border-bottom: 1px solid var(--main-border-color);
+  padding-bottom: .3em;
+}
+
+#post-list {
+  @media all and (min-width: 600px) {
+    .my-post-preview {
+      display: flex;
+    }
+  }
+
+  .my-image-div {
+    padding-top: 1.5rem;
+
+    @media all and (max-width: 599px) {
+      margin-bottom: -1rem;
+    }
+    @media all and (min-width: 600px) {
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--main-border-color);
+      flex-shrink: 0;
+      padding-right: 1rem;
+    }
+  }
+
+  .my-image {
+    height: 12rem;
+    width: 100%;
+    object-fit: cover;
+    @media all and (min-width: 600px) {
+      width: 16rem;
+      height: 100%;
+    }
+  }
+}
+
+// 自定义的图片圆角
+img {
+  border-radius: 7px;
+}
+
+// #search-cancel { /* 'Cancel' link */
+//     white-space: nowrap;
+// }
