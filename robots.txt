@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://cdnwx.com/sitemap.xml
+Sitemap: https://blog.cdnwx.com/sitemap.xml
